@@ -1,0 +1,5 @@
+1) create a user with "adduser user" on the target platform
+2) copy the binary to the user home directory
+3) add setuid using chmod u+s
+4) connect as user
+5) run the executable

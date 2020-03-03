@@ -1,0 +1,7 @@
+Contains parts of ELF-parser by TheCodeArtist. Source: https://github.com/TheCodeArtist/elf-parser
+Based on the single instruction RISC-V disassembler by https://github.com/michaeljclark/riscv-disassembler
+
+To test, run:
+make
+
+The graph for the fedora test program is produced under the name graph.dot
